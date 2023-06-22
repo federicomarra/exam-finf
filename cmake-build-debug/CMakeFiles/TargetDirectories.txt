@@ -1,0 +1,3 @@
+/Users/federico/Documents/CLionProjects/c/Marra7025997bubble_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/federico/Documents/CLionProjects/c/Marra7025997bubble_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/federico/Documents/CLionProjects/c/Marra7025997bubble_sort/cmake-build-debug/CMakeFiles/Marra7025997bubble_sort.dir
