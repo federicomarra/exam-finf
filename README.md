@@ -1,2 +1,2 @@
-# exam-fiinf
- Informatic Fundamentals exam
+# exam-finf
+ Unifi Informatic Fundamentals exam
