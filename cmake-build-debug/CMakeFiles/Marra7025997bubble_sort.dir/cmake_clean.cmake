@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Marra7025997bubble_sort.dir/main.c.o"
+  "CMakeFiles/Marra7025997bubble_sort.dir/main.c.o.d"
   "Marra7025997bubble_sort"
   "Marra7025997bubble_sort.pdb"
 )
